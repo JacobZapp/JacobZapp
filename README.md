@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**JacobZapp/JacobZapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jacob
 
-Here are some ideas to get you started:
+😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+JacobZapp01@outlook.com
+
+Software developer focused on Python, Django, SQL, and web development.
+
+Currently building:
+• Steam Stat Analyzer — a Django application for analyzing Steam
+  player statistics and achievement data.
+
+Technologies:
+Python | Django | SQL | Git | HTML/CSS
+
+Featured Projects
+[Steam Stat Analyzer]
